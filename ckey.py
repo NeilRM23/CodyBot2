@@ -5,4 +5,4 @@
 # Replace the 'your key' with your key, it should look like this:
 # CKEY= "8228bf-..."
 
-CKEY = "your key"
+CKEY = "7a7309-748058-8caf28-fbba3e"
