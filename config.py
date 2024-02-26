@@ -15,7 +15,7 @@ except ImportError:
 # Replace the 'your key' with your key, it should look like this:
 # CKEY= "8228bf-..."
 if ImportFailed:
-    CKEY = '7a7309-748058-8caf28-fbba3e'
+    CKEY = "7a7309-748058-8caf28-fbba3e"
 
 # The numbers corresponding to the game modes can be obtained from the api doc https://codyfight.com/api-doc
 # Change this variable if you want to deploy in the other modes
